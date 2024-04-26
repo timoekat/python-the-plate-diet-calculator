@@ -24,5 +24,5 @@ carbohydratesstring = delimiter.join(carbohydrates)
 proteinstring = delimiter.join(proteins)
 
 
-print('Half of your plate should contain: ' + str(fruitstring) + ' ,' + str(vegetablestring) + '\n25% of your plate should contain: ' + str(carbohydratesstring) + '\n25% of your plate should contain: '+ str(proteinstring))
+print('50% of your plate should contain: ' + str(fruitstring) + ', ' + str(vegetablestring) + '\n25% of your plate should contain: ' + str(carbohydratesstring) + '\n25% of your plate should contain: '+ str(proteinstring))
 
