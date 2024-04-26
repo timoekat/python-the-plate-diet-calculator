@@ -1,1 +1,1 @@
-# python-the-plate-diet-calculator
+# Python: The Plate Diet calculator
